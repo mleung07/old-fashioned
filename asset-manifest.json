@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/old-fashioned/static/css/main.b0fae522.css",
+    "main.js": "/old-fashioned/static/js/main.e9efcab2.js",
+    "static/js/787.b2c430bc.chunk.js": "/old-fashioned/static/js/787.b2c430bc.chunk.js",
+    "index.html": "/old-fashioned/index.html",
+    "main.b0fae522.css.map": "/old-fashioned/static/css/main.b0fae522.css.map",
+    "main.e9efcab2.js.map": "/old-fashioned/static/js/main.e9efcab2.js.map",
+    "787.b2c430bc.chunk.js.map": "/old-fashioned/static/js/787.b2c430bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0fae522.css",
+    "static/js/main.e9efcab2.js"
+  ]
+}
